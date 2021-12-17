@@ -1,0 +1,35 @@
+body{
+    background-image: url(../images/background.jpg) ;
+}
+.Ha{
+    font-size: 60pt;
+}
+h2{
+    font-family: "Lucida Console", "Courier New", monospace;
+} 
+p{
+    text-align: center;
+}
+.dashed{
+    border: dashed lightblue 5px;
+}
+.Hb{
+    font-family: cursive;
+    font-size: 25pt;
+}
+.Bc{
+    background-color: rgb(172, 219, 166);
+}
+
+#one{
+    color:rgb(96, 158, 88);
+    font-weight:bold;
+}
+#two{
+    color:rgb(70, 91, 131);
+    font-size: 1rem;;
+}
+#three{
+    color:rgb(133, 74, 108);
+    font-style: italic;
+}
